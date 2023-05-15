@@ -26,6 +26,7 @@ function Hero({ title, text }) {
       <Image
         className="md:w-72 md:h-72 lg:h-96 lg:w-96"
         src="/avatar.png"
+        alt="user image"
         height={500}
         width={500}
         priority
