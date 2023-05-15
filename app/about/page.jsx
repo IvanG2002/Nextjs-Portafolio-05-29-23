@@ -9,7 +9,7 @@ function Aboutpage() {
   return (
     <>
       <Hero title={title} text={text} />
-      <Info/>
+      <Info />
     </>
   );
 }

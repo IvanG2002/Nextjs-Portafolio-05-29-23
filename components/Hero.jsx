@@ -1,6 +1,6 @@
-"use client"
+"use client";
 import { motion } from "framer-motion";
-import Image from 'next/image'
+import Image from "next/image";
 
 function Hero({ title, text }) {
   return (
@@ -23,8 +23,13 @@ function Hero({ title, text }) {
           {text}
         </motion.p>
       </div>
-      <Image  className="md:w-72 md:h-72 lg:h-96 lg:w-96"
-        src="/avatar.png" height={500} width={500} priority/>
+      <Image
+        className="md:w-72 md:h-72 lg:h-96 lg:w-96"
+        src="/avatar.png"
+        height={500}
+        width={500}
+        priority
+      />
     </div>
   );
 }

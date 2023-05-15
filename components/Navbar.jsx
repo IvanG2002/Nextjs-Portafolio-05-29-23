@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 function Navbar() {
   return (
@@ -17,7 +17,7 @@ function Navbar() {
         </ul>
       </div>
     </nav>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;

@@ -7,8 +7,8 @@ export default function Home() {
     "I'm Front end Developer, currently I work with HTML, CSS, SASS Tailwind, JS, React and more.";
   return (
     <>
-      <Hero title={title} text={text}/>
-      <Projects/>
+      <Hero title={title} text={text} />
+      <Projects />
     </>
   );
 }
