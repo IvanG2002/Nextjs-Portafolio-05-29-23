@@ -14,7 +14,8 @@ function Info() {
       <p className="text-[#272727] text-2xl mt-10 hidden" ref={textToggle}>
         <strong>Hard skills: </strong>C, C++, HTML, JS, CSS, JS, React, SASS,
         Tailwind, Data structures, Algorithms, Git and GitHub, mathematics,
-        basic knowledge about hardware, software, electronic. Currently I am
+        basic knowledge about hardware, software, and electronics.<br/>
+        Currently I am
         studying node, MySQL, mongoDB and practicing my main skills.
         <br /> <strong>Soft skills: </strong>Responsible, Perceptive, dedicate,
         studious. <br /> <strong>Studies: </strong>Student Computer science at
